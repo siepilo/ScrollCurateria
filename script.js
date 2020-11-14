@@ -9,8 +9,9 @@ $(document).ready(function(){
 
 	for (let i = 0; i < 1000; i++){
 
-		$('body,html').animate({scrollTop: (height)}, 1000);
-		$('body,html').animate({scrollTop: (-height)}, 1000); 
+
+		$('body,html').animate({scrollTop: (height)}, 3000);
+		$('body,html').animate({scrollTop: (-height)}, 0);		 
 
 	}
 
