@@ -1,4 +1,16 @@
 .testo{
-	font-size: 100px;
+	font-size: 90px;
 	font-family: 'Space Mono', monospace;
+}
+
+.coltxt_1{
+	color: #000000
+}
+
+.coltxt_2{
+	color: #EB833D
+}
+
+.coltxt_3{
+	color: #9167A8
 }
